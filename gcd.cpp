@@ -16,7 +16,6 @@ int main() {
     int a, b;
     
     // Taking input from the user
-    cout << "Enter two integers: ";
     cin >> a >> b;
 
     // Output the GCD
